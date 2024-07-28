@@ -14,3 +14,4 @@ mystring1 = "Thisismystring"
 print(mystring1[0:4])
 print(mystring1[::-1])
 
+name = str(input("What is your name: "))
