@@ -11,7 +11,7 @@ def substraction(num1, num2):
 
 def multiplication(num1, num2):
     mult = num1 * num2
-    return(mult)
+    return mult
 
 addition()
 substraction(12, 3)
